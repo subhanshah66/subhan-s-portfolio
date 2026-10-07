@@ -387,7 +387,9 @@ export default function Portfolio() {
         <Reveal className="section-heading-row">
           <div>
             <p className="section-label">01 / Selected work</p>
-            <h2>Products I’ve helped bring to life</h2>
+            <h2>Products I’ve helped bring to life.
+              
+            </h2>
           </div>
           <p className="section-note">Real product work across education, tutoring, marketplaces and healthcare.</p>
         </Reveal>
